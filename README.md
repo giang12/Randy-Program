@@ -3,7 +3,11 @@ Randy-Program
 
 Randy is a simple tool used to select random students, objects...or anything. It also has some built-in randomization tools.
 
+What Is In The Name?
+==============
+<a href="http://en.wikipedia.org/wiki/Randy_Pausch" target="_blank">http://en.wikipedia.org/wiki/Randy_Pausch</a>
 
+[http://en.wikipedia.org/wiki/Randy_Pausch](http://en.wikipedia.org/wiki/Randy_Pausch)
 Watch The Walk-thru Video
 =============
 [http://www.youtube.com/embed/yvJNz2GEIWQ](http://www.youtube.com/embed/yvJNz2GEIWQ?rel=0&modestbranding=1&autoplay=1)
@@ -18,3 +22,7 @@ I took AP Statistics during my junior year of high school. One day my teacher ju
 Tool Kit
 =============
 Java
+
+
+<iframe  src="http://www.youtube.com/embed/yvJNz2GEIWQ?rel=0&modestbranding=1&autoplay=1" >
+  </iframe>
