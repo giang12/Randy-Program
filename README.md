@@ -27,3 +27,5 @@ I took AP Statistics during my junior year of high school. One day my teacher ju
 Tool Kit
 =============
 Java
+
+## REQUIRED Java Runtime Environment version 1.6+ (6+)
