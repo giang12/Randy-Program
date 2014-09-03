@@ -1,5 +1,5 @@
 
-*[Download](https://github.com/giang12/Randy-Program/blob/master/Randy.jar?raw=yes)
+#[Download](https://github.com/giang12/Randy-Program/blob/master/Randy.jar?raw=yes)
 
 
 [![Randy](http://img.youtube.com/vi/yvJNz2GEIWQ/0.jpg)](http://www.youtube.com/embed/yvJNz2GEIWQ?rel=0&modestbranding=1&autoplay=1)
