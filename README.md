@@ -28,4 +28,4 @@ Tool Kit
 =============
 Java
 
-## REQUIRED Java Runtime Environment version 1.6+ (6+)
+### REQUIRED Java Runtime Environment version 1.6+ (6+)
