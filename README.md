@@ -1,3 +1,5 @@
+[![Randy](http://img.youtube.com/vi/yvJNz2GEIWQ/0.jpg)](http://www.youtube.com/embed/yvJNz2GEIWQ?rel=0&modestbranding=1&autoplay=1)
+
 Randy-Program
 =============
 
@@ -21,7 +23,3 @@ I took AP Statistics during my junior year of high school. One day my teacher ju
 Tool Kit
 =============
 Java
-
-
-<iframe  src="http://www.youtube.com/embed/yvJNz2GEIWQ?rel=0&modestbranding=1&autoplay=1" >
-  </iframe>
